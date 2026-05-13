@@ -1,3 +1,5 @@
+console.log("boo")
+
 let quoteEl = document.getElementById("quote-el")
 let imgEl = document.getElementById("img-el")
 
